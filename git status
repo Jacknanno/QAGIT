@@ -1,0 +1,29 @@
+[33mcommit 8750bce1533d568164227fb013709a1a9a4fccee[m[33m ([m[1;36mHEAD -> [m[1;32mfeature[m[33m)[m
+Author: Jacknanno <JackBrosnan10@gmail.com>
+Date:   Thu Jul 14 15:32:27 2022 +0100
+
+    feature commit
+
+[33mcommit 1225a7755fdd8c53320b95ce673d2206bfc9f92a[m
+Author: Jacknanno <JackBrosnan10@gmail.com>
+Date:   Thu Jul 14 15:30:21 2022 +0100
+
+    feature commit
+
+[33mcommit 755f208a57f43b296d15bcb8271a178b7f90a4a0[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Jacknanno <JackBrosnan10@gmail.com>
+Date:   Thu Jul 14 15:16:01 2022 +0100
+
+    My thrid commit with change to 1 file and .gitignore
+
+[33mcommit 92b8832304ea661a89585aafbc5dde47b7f86b1a[m
+Author: Jacknanno <JackBrosnan10@gmail.com>
+Date:   Thu Jul 14 15:10:07 2022 +0100
+
+    My second commit with change to 2 file
+
+[33mcommit 92b5785cb1b91b376a1a11f9e28b9993c2f64d16[m
+Author: Jacknanno <JackBrosnan10@gmail.com>
+Date:   Thu Jul 14 15:08:01 2022 +0100
+
+    My first commit with 2 files
